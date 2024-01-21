@@ -1,0 +1,16 @@
+﻿<Window x:Class="MyProject.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:MyProject"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Button Name="btnPrepareBrakfast" Content="Prepare Breakfast" HorizontalAlignment="Left" Margin="68,29,0,0" VerticalAlignment="Top" Height="27" Width="129" Click="btnPrepareBrakfast_Click"/>
+        <ListBox Name="lstBreakfast" d:ItemsSource="{d:SampleData ItemCount=5}" Margin="68,96,558,61"/>
+        <Button Name="btnPrepareBreakfastAsync" Content="Prepare Brekfast Async" HorizontalAlignment="Left" Margin="450,29,0,0" VerticalAlignment="Top" Height="33" Width="163" Click="btnPrepareBreakfastAsync_Click"/>
+        <ListBox Name="lstBreakfastAsync" d:ItemsSource="{d:SampleData ItemCount=5}" Margin="450,96,165,49"/>
+
+    </Grid>
+</Window>

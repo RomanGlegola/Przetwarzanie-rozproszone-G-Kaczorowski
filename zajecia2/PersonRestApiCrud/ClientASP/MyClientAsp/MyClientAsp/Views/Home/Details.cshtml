@@ -1,0 +1,31 @@
+﻿@model MyClientAsp.Models.PersonModel
+
+@{
+	ViewData["Title"] = "Details";
+}
+
+<h1>Details</h1>
+
+<div>
+	<h4>@Html.DisplayFor(model => model.PersonId)</h4>
+	<hr />
+
+    <div class="row">
+        <div class="col-4">  </div>
+
+        <div class="col-4">
+            <div class="card" style="width: 18rem;">
+                <img src=@Html.DisplayFor(model => model.PhotoUrl) class="card-img-top" alt="img">
+
+                <div class="card-body">
+                    <h5 class="card-title"> Name: @Html.DisplayFor(model => model.Name) Age: @Html.DisplayFor(model => model.Age)</h5>
+                    <p class="card-text">Email: @Html.DisplayFor(model => model.Email)</p>
+
+                </div>
+            </div>
+        </div>
+
+        <div class="col-4">  </div>
+
+    </div>
+</div>

@@ -1,0 +1,13 @@
+﻿namespace MyClientAsp.Models
+{
+    public class PersonModel
+    {
+        public string? PersonId { get; set; }
+        public string? Name { get; set; }
+
+        public string? Email { get; set; }
+        public int Age { get; set; }
+
+        public string? PhotoUrl { get; set; }
+    }
+}

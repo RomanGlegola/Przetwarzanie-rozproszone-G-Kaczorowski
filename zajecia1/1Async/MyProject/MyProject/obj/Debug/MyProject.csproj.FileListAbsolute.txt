@@ -1,0 +1,15 @@
+C:\Users\studentwsb\Desktop\ININ5_IS1.1\1Async\MyProject\MyProject\bin\Debug\MyProject.exe.config
+C:\Users\studentwsb\Desktop\ININ5_IS1.1\1Async\MyProject\MyProject\bin\Debug\MyProject.exe
+C:\Users\studentwsb\Desktop\ININ5_IS1.1\1Async\MyProject\MyProject\bin\Debug\MyProject.pdb
+C:\Users\studentwsb\Desktop\ININ5_IS1.1\1Async\MyProject\MyProject\obj\Debug\MyProject.csproj.AssemblyReference.cache
+C:\Users\studentwsb\Desktop\ININ5_IS1.1\1Async\MyProject\MyProject\obj\Debug\MainWindow.g.cs
+C:\Users\studentwsb\Desktop\ININ5_IS1.1\1Async\MyProject\MyProject\obj\Debug\App.g.cs
+C:\Users\studentwsb\Desktop\ININ5_IS1.1\1Async\MyProject\MyProject\obj\Debug\MyProject_MarkupCompile.cache
+C:\Users\studentwsb\Desktop\ININ5_IS1.1\1Async\MyProject\MyProject\obj\Debug\MyProject_MarkupCompile.lref
+C:\Users\studentwsb\Desktop\ININ5_IS1.1\1Async\MyProject\MyProject\obj\Debug\MainWindow.baml
+C:\Users\studentwsb\Desktop\ININ5_IS1.1\1Async\MyProject\MyProject\obj\Debug\MyProject.g.resources
+C:\Users\studentwsb\Desktop\ININ5_IS1.1\1Async\MyProject\MyProject\obj\Debug\MyProject.Properties.Resources.resources
+C:\Users\studentwsb\Desktop\ININ5_IS1.1\1Async\MyProject\MyProject\obj\Debug\MyProject.csproj.GenerateResource.cache
+C:\Users\studentwsb\Desktop\ININ5_IS1.1\1Async\MyProject\MyProject\obj\Debug\MyProject.csproj.CoreCompileInputs.cache
+C:\Users\studentwsb\Desktop\ININ5_IS1.1\1Async\MyProject\MyProject\obj\Debug\MyProject.exe
+C:\Users\studentwsb\Desktop\ININ5_IS1.1\1Async\MyProject\MyProject\obj\Debug\MyProject.pdb

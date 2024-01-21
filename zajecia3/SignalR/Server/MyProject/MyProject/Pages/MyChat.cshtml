@@ -1,0 +1,53 @@
+﻿@page
+@model MyProject.Pages.MyChatModel
+@{
+}
+
+<div class="container">
+
+    <div class="row m-3">
+        <div class="col-3"></div>
+        <div class="col-6">
+            <div class="card shadow">
+                <div class="card-body">
+                    <h5 class="card-title">SignalR Chat</h5>
+
+                    <div class="m-3"> User  <input  type="text" id="txtUser" placeholder="input user name" /></div>
+
+                    <div class="m-3"> Message  <input type="text" id="txtMessage" placeholder="input message" /></div>
+
+                    <div class ="m-3">  <input class="btn btn-secondary" type="button" id="btnSend" value="Send Message" /></div>
+                   
+                </div>
+            </div>
+
+        </div>
+        <div class="col-3"></div>
+    </div>
+
+    <div class="row m-3">
+        <hr />
+    </div>
+
+    <div class="row m-3">
+        <div class="col-2"></div>
+        <div class="col-8">
+            <div class="card">
+                <div class="card-body">
+                    <h5 class="card-title">Communication content</h5>
+                    <div>
+                        <ul id="messageList">
+
+                        </ul>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+        <div class="col-2"></div>
+    </div>
+
+</div>
+
+<script src="~/js/signalr/dist/browser/signalr.js"></script>
+<script src="~/js/chat.js"></script>
